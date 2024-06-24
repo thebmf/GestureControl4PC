@@ -1,6 +1,6 @@
 # GestureControl4PC
 
-### GestureControl4PC is a Python project that allows you to control your computer's mouse using hand gestures. By utilizing a camera to track finger movements, the project enables intuitive and touch-free interaction with your computer. When the index and middle fingers are brought together, a mouse click is performed.
+GestureControl4PC is a Python project that allows you to control your computer's mouse using hand gestures. By utilizing a camera to track finger movements, the project enables intuitive and touch-free interaction with your computer. When the index and middle fingers are brought together, a mouse click is performed.
 
 ## Features
 
